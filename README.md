@@ -2,7 +2,7 @@
 - I’m interested in learning Python in depth
 - I’m currently learning best security practices
 - I'm currently working on Python networking and getting my CySA+  
-- I hope to improve with each project
+- I hope to consistently post new projects
 
 <!---
 Polkatwist/Polkatwist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
